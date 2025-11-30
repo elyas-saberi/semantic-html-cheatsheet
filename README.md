@@ -1,3 +1,5 @@
+
+
 # 📘 Stop Using `<div>` Everywhere — Semantic HTML Best Practices
 
 Semantic tags describe the meaning and purpose of each section of your page.  
