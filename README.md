@@ -6,22 +6,22 @@ They make your HTML more readable, SEO-friendly, and accessible.
 ---
 
 ## 📑 Table of Contents
-- [Header](#-header)
-- [Nav](#-nav)
-- [Section](#-section)
-- [Article](#-article)
-- [Aside](#-aside)
-- [Main](#-main)
-- [Footer](#-footer)
-- [Figure + Figcaption](#-figure--figcaption)
+- [Header](#header)
+- [Nav](#nav)
+- [Section](#section)
+- [Article](#article)
+- [Aside](#aside)
+- [Main](#main)
+- [Footer](#footer)
+- [Figure + Figcaption](#figure-figcaption)
 - [Picture](#picture)
-- [Summary + Details](#-summary--details)
-- [Why Not Use `<div>`](#-why-not-use-div)
-- [Summary Table](#-summary-table)
+- [Summary + Details](#summary--details)
+- [Why Not Use `<div>`](#why-not-use-div)
+- [Summary Table](#summary-table)
 
 ---
-
-## 🏠 Header
+<a id="header"></a>
+## 🏠 `<header>`
 
 **Purpose:** Top section of a page or a section.
 
@@ -46,8 +46,8 @@ They make your HTML more readable, SEO-friendly, and accessible.
 ```
 
 ---
-
-## 🧭 Nav
+<a id="nav"></a>
+## 🧭 `<nav>`
 
 **Purpose:** Contains the main navigation links.
 
@@ -74,8 +74,8 @@ They make your HTML more readable, SEO-friendly, and accessible.
 ```
 
 ---
-
-## 🏷 Section
+<a id="section"></a>
+## 🏷 `<section>`
 
 **Purpose:** A thematic group of related content. 
 
@@ -98,8 +98,8 @@ They make your HTML more readable, SEO-friendly, and accessible.
 ```
 
 ---
-
-## 📄 Article
+<a id="article"></a>
+## 📄 `<article>`
 
 **Purpose:** Self-contained content that can stand alone.  
 **Contains:**
@@ -121,8 +121,8 @@ If you can move the block to another page and it still makes sense → it’s an
 ```
 
 ---
-
-## ✍️ Aside
+<a id="aside"></a>
+## ✍️ `<aside>`
 
 **Purpose:** Secondary content related to the main content.  
 **Contains:**
@@ -146,10 +146,11 @@ If you can move the block to another page and it still makes sense → it’s an
 ```
 
 ---
+<a id="main"></a>
+## 📌 `<main>`
 
-## 📌 Main
+**Purpose:** The main content of the page.
 
-**Purpose:** The main content of the page.  
 **Contains:** Everything that is **not**:
 - Header  
 - Footer  
@@ -168,8 +169,8 @@ There must be **only one** `<main>` per page.
 ```
 
 ---
-
-## 🔽 Footer
+<a id="footer"></a>
+## 🔽 `<footer>`
 
 **Purpose:** Bottom section of the page.  
 **Contains:**
@@ -190,8 +191,8 @@ There must be **only one** `<main>` per page.
 ```
 
 ---
-
-## 🎨 Figure + Figcaption
+<a id="figure-figcaption"></a>
+## 🎨 `<figure>` + `<figcaption>`
 
 **Purpose:** Media content with a caption.  
 **Contains:**
@@ -209,8 +210,8 @@ There must be **only one** `<main>` per page.
 ```
 
 ---
-
-## 🖼️ Picture
+<a id="picture"></a>
+## 🖼️ `<picture>`
 
 **Purpose:** Responsive images — loads different image files for different screen sizes.
 
@@ -224,8 +225,8 @@ There must be **only one** `<main>` per page.
 ```
 
 ---
-
-## 📑 Summary + Details
+<a id="summary-details"></a>
+## 📑 `<summary>` + `<details>`
 
 **Purpose:** Expandable/collapsible content.
 
@@ -238,7 +239,7 @@ There must be **only one** `<main>` per page.
 ```
 
 ---
-
+<a id="why-not-use-div"></a>
 # ❓ Why Not Use `<div>` for Everything?
 
 `<div>` has **no meaning**.  
@@ -252,7 +253,7 @@ Semantic HTML improves:
 - Maintainability  
 
 ---
-
+<a id="summary-table"></a>
 # ⭐ Summary Table
 
 | Tag         | Purpose                 | What it contains                    |
