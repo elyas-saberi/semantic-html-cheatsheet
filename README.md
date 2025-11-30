@@ -134,13 +134,13 @@ There must be **only one** `<main>` per page.
 
 ---
 
-## 🎤 `<summary>` + `<details>`
+## 📑 `<summary>` + `<details>`
 
 **Purpose:** Expandable/collapsible content.
 
 ---
 
-# 🟦 Why Not Use `<div>` for Everything?
+# ❓ Why Not Use `<div>` for Everything?
 
 `<div>` has **no meaning**.  
 Semantic tags tell browsers, search engines, and developers what each section represents.
