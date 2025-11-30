@@ -10,15 +10,14 @@ They make your HTML more readable, SEO-friendly, and accessible.
 - [Nav](#-nav)
 - [Section](#-section)
 - [Article](#-article)
-- [Aside](#-aside)
+- [Aside](#aside)
 - [Main](#-main)
 - [Footer](#-footer)
 - [Figure + Figcaption](#-figure--figcaption)
-- [Picture](#-picture)
-- [Details + Summary](#-summary--details)
-- [Why Not Use `<div>`](#-why-not-use-div)
+- [Picture](#picture)
+- [Summary + Details](#-summary--details)
+- [Why Not Use `<div>`](#why-not-use-div)
 - [Summary Table](#-summary-table)
-- [Demo / Screenshots](#-demo--screenshots)
 
 ---
 
