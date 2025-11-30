@@ -128,7 +128,7 @@ There must be **only one** `<main>` per page.
 
 ---
 
-## 🎞 `<picture>`
+## 🖼️ `<picture>`
 
 **Purpose:** Responsive images — loads different image files for different screen sizes.
 
