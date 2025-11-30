@@ -1,17 +1,13 @@
 # 📘 Stop Using `<div>` Everywhere — Semantic HTML Best Practices
 
-![GitHub repo size](https://img.shields.io/github/repo-size/elyas-saberi/semantic-html-cheatsheet)
-![GitHub license](https://img.shields.io/github/license/elyas-saberi/semantic-html-cheatsheet)
-![GitHub top language](https://img.shields.io/github/languages/top/elyas-saberi/semantic-html-cheatsheet)
-
 Semantic tags describe the meaning and purpose of each section of your page.  
 They make your HTML more readable, SEO-friendly, and accessible.
 
 ---
 
 ## 📑 Table of Contents
-- [Header](#header)
-- [Nav](#nav)
+- [Header](#-header)
+- [Nav](#-nav)
 - [Section](#section)
 - [Article](#article)
 - [Aside](#aside)
