@@ -6,22 +6,22 @@ They make your HTML more readable, SEO-friendly, and accessible.
 ---
 
 ## 📑 Table of Contents
-- [Header](#-header)
-- [Nav](#-nav)
-- [Section](#-section)
-- [Article](#-article)
+- [Header](#header)
+- [Nav](#nav)
+- [Section](#section)
+- [Article](#article)
 - [Aside](#aside)
-- [Main](#-main)
-- [Footer](#-footer)
-- [Figure + Figcaption](#-figure--figcaption)
+- [Main](#main)
+- [Footer](#footer)
+- [Figure + Figcaption](#figure-figcaption)
 - [Picture](#picture)
-- [Summary + Details](#-summary--details)
+- [Summary + Details](#summary-details)
 - [Why Not Use `<div>`](#why-not-use-div)
-- [Summary Table](#-summary-table)
+- [Summary Table](#summary-table)
 
 ---
 
-## 🏠 `<header>`
+## 🏠 Header
 
 **Purpose:** Top section of a page or a section.
 
@@ -47,7 +47,7 @@ They make your HTML more readable, SEO-friendly, and accessible.
 
 ---
 
-## 🧭 `<nav>`
+## 🧭 Nav
 
 **Purpose:** Contains the main navigation links.
 
@@ -75,7 +75,7 @@ They make your HTML more readable, SEO-friendly, and accessible.
 
 ---
 
-## 🏷 `<section>`
+## 🏷 Section
 
 **Purpose:** A thematic group of related content. 
 
@@ -99,7 +99,7 @@ They make your HTML more readable, SEO-friendly, and accessible.
 
 ---
 
-## 📄 `<article>`
+## 📄 Article
 
 **Purpose:** Self-contained content that can stand alone.  
 **Contains:**
@@ -122,7 +122,7 @@ If you can move the block to another page and it still makes sense → it’s an
 
 ---
 
-## ✍️ `<aside>`
+## ✍️ Aside
 
 **Purpose:** Secondary content related to the main content.  
 **Contains:**
@@ -147,7 +147,7 @@ If you can move the block to another page and it still makes sense → it’s an
 
 ---
 
-## 📌 `<main>`
+## 📌 Main
 
 **Purpose:** The main content of the page.  
 **Contains:** Everything that is **not**:
@@ -169,7 +169,7 @@ There must be **only one** `<main>` per page.
 
 ---
 
-## 🔽 `<footer>`
+## 🔽 Footer
 
 **Purpose:** Bottom section of the page.  
 **Contains:**
@@ -191,7 +191,7 @@ There must be **only one** `<main>` per page.
 
 ---
 
-## 🎨 `<figure>` + `<figcaption>`
+## 🎨 Figure + Figcaption
 
 **Purpose:** Media content with a caption.  
 **Contains:**
@@ -210,7 +210,7 @@ There must be **only one** `<main>` per page.
 
 ---
 
-## 🖼️ `<picture>`
+## 🖼️ Picture
 
 **Purpose:** Responsive images — loads different image files for different screen sizes.
 
@@ -225,7 +225,7 @@ There must be **only one** `<main>` per page.
 
 ---
 
-## 📑 `<summary>` + `<details>`
+## 📑 Summary + Details
 
 **Purpose:** Expandable/collapsible content.
 
@@ -239,7 +239,7 @@ There must be **only one** `<main>` per page.
 
 ---
 
-# ❓ Why Not Use `<div>` for Everything?
+# ❓ Why Not Use <div> for Everything?
 
 `<div>` has **no meaning**.  
 Semantic tags tell browsers, search engines, and developers what each section represents.
