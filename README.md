@@ -15,7 +15,7 @@ They make your HTML more readable, SEO-friendly, and accessible.
 - [Footer](#footer)
 - [Figure + Figcaption](#figure-figcaption)
 - [Picture](#picture)
-- [Summary + Details](#summary--details)
+- [Summary + Details](#summary-details)
 - [Why Not Use `<div>`](#why-not-use-div)
 - [Summary Table](#summary-table)
 
