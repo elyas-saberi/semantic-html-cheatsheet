@@ -6,18 +6,18 @@ They make your HTML more readable, SEO-friendly, and accessible.
 ---
 
 ## 📑 Table of Contents
-- [Header](#header)
-- [Nav](#nav)
-- [Section](#section)
-- [Article](#article)
-- [Aside](#aside)
-- [Main](#main)
-- [Footer](#footer)
-- [Figure + Figcaption](#figure-figcaption)
+- [Header](#-header)
+- [Nav](#-nav)
+- [Section](#-section)
+- [Article](#-article)
+- [Aside](#-aside)
+- [Main](#-main)
+- [Footer](#-footer)
+- [Figure + Figcaption](#-figure--figcaption)
 - [Picture](#picture)
-- [Summary + Details](#summary-details)
-- [Why Not Use `<div>`](#why-not-use-div)
-- [Summary Table](#summary-table)
+- [Summary + Details](#-summary--details)
+- [Why Not Use `<div>`](#-why-not-use-div)
+- [Summary Table](#-summary-table)
 
 ---
 
@@ -239,7 +239,7 @@ There must be **only one** `<main>` per page.
 
 ---
 
-# ❓ Why Not Use <div> for Everything?
+# ❓ Why Not Use `<div>` for Everything?
 
 `<div>` has **no meaning**.  
 Semantic tags tell browsers, search engines, and developers what each section represents.
