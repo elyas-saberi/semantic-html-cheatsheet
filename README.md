@@ -1,4 +1,4 @@
-# 📘 Stop Using <div> Everywhere — Semantic HTML Best Practices
+# 📘 Stop Using `<div>` Everywhere — Semantic HTML Best Practices
 
 Semantic tags describe the meaning and purpose of each section of your page.  
 They make your HTML more readable, SEO-friendly, and accessible.
